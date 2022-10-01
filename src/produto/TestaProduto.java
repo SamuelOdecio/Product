@@ -20,5 +20,8 @@ public class TestaProduto {
         product1.AddProducts(100);
         System.out.println("QTD: " + product1.getProductQuantity());
         
+        
+        System.out.println("CLOSE!");
+        
     }
 }
